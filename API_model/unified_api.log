@@ -1,0 +1,302 @@
+2025-06-10 11:20:05,767 - __main__ - INFO - Using device: cpu
+2025-06-10 11:20:05,787 - __main__ - INFO - Loading Siamese model from siamese_model_script.pt...
+2025-06-10 11:20:05,991 - __main__ - INFO - Siamese model loaded successfully
+2025-06-10 11:20:08,061 - __main__ - INFO -   GET  /api/health            - Health check
+2025-06-10 11:20:08,062 - __main__ - INFO -   GET  /api/status            - System status
+2025-06-10 11:20:08,062 - __main__ - INFO -   POST /api/verify-signature  - Signature verification (requires API key)
+2025-06-10 11:20:08,062 - __main__ - INFO -   POST /api/chat              - Signature analysis chat
+2025-06-10 11:20:08,063 - __main__ - INFO -   POST /api/detect-language   - Language detection
+2025-06-10 11:20:08,071 - __main__ - INFO - Starting in development mode
+2025-06-10 11:20:08,097 - werkzeug - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://192.168.1.8:5000
+2025-06-10 11:20:08,098 - werkzeug - INFO - [33mPress CTRL+C to quit[0m
+2025-06-10 11:20:08,100 - werkzeug - INFO -  * Restarting with stat
+2025-06-10 11:20:13,629 - __main__ - INFO - Using device: cpu
+2025-06-10 11:20:13,635 - __main__ - INFO - Loading Siamese model from siamese_model_script.pt...
+2025-06-10 11:20:13,815 - __main__ - INFO - Siamese model loaded successfully
+2025-06-10 11:20:15,867 - __main__ - INFO -   GET  /api/health            - Health check
+2025-06-10 11:20:15,867 - __main__ - INFO -   GET  /api/status            - System status
+2025-06-10 11:20:15,868 - __main__ - INFO -   POST /api/verify-signature  - Signature verification (requires API key)
+2025-06-10 11:20:15,868 - __main__ - INFO -   POST /api/chat              - Signature analysis chat
+2025-06-10 11:20:15,869 - __main__ - INFO -   POST /api/detect-language   - Language detection
+2025-06-10 11:20:15,878 - __main__ - INFO - Starting in development mode
+2025-06-10 11:20:15,897 - werkzeug - WARNING -  * Debugger is active!
+2025-06-10 11:20:15,903 - werkzeug - INFO -  * Debugger PIN: 308-163-258
+2025-06-10 11:20:38,109 - __main__ - INFO - Using device: cpu
+2025-06-10 11:20:38,115 - __main__ - INFO - Loading Siamese model from siamese_model_script.pt...
+2025-06-10 11:20:38,325 - __main__ - INFO - Siamese model loaded successfully
+2025-06-10 11:20:40,369 - __main__ - INFO -   GET  /api/health            - Health check
+2025-06-10 11:20:40,370 - __main__ - INFO -   GET  /api/status            - System status
+2025-06-10 11:20:40,370 - __main__ - INFO -   POST /api/verify-signature  - Signature verification (requires API key)
+2025-06-10 11:20:40,370 - __main__ - INFO -   POST /api/chat              - Signature analysis chat
+2025-06-10 11:20:40,370 - __main__ - INFO -   POST /api/detect-language   - Language detection
+2025-06-10 11:20:40,375 - __main__ - INFO - Starting in development mode
+2025-06-10 11:20:40,406 - werkzeug - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://192.168.1.8:5000
+2025-06-10 11:20:40,407 - werkzeug - INFO - [33mPress CTRL+C to quit[0m
+2025-06-10 11:20:40,409 - werkzeug - INFO -  * Restarting with stat
+2025-06-10 11:20:46,263 - __main__ - INFO - Using device: cpu
+2025-06-10 11:20:46,272 - __main__ - INFO - Loading Siamese model from siamese_model_script.pt...
+2025-06-10 11:20:46,494 - __main__ - INFO - Siamese model loaded successfully
+2025-06-10 11:20:48,573 - __main__ - INFO -   GET  /api/health            - Health check
+2025-06-10 11:20:48,573 - __main__ - INFO -   GET  /api/status            - System status
+2025-06-10 11:20:48,573 - __main__ - INFO -   POST /api/verify-signature  - Signature verification (requires API key)
+2025-06-10 11:20:48,574 - __main__ - INFO -   POST /api/chat              - Signature analysis chat
+2025-06-10 11:20:48,574 - __main__ - INFO -   POST /api/detect-language   - Language detection
+2025-06-10 11:20:48,580 - __main__ - INFO - Starting in development mode
+2025-06-10 11:20:48,596 - werkzeug - WARNING -  * Debugger is active!
+2025-06-10 11:20:48,607 - werkzeug - INFO -  * Debugger PIN: 308-163-258
+2025-06-10 11:21:22,763 - __main__ - INFO - Request: POST /api/chat from 127.0.0.1
+2025-06-10 11:21:48,592 - __main__ - INFO - [fa690fc1] Chat response generated successfully in English
+2025-06-10 11:21:48,594 - werkzeug - INFO - 127.0.0.1 - - [10/Jun/2025 11:21:48] "POST /api/chat HTTP/1.1" 200 -
+2025-06-10 11:24:59,929 - __main__ - INFO - Using device: cpu
+2025-06-10 11:24:59,934 - __main__ - INFO - Loading Siamese model from siamese_model_script.pt...
+2025-06-10 11:25:00,121 - __main__ - INFO - Siamese model loaded successfully
+2025-06-10 11:25:02,171 - __main__ - INFO -   GET  /api/health            - Health check
+2025-06-10 11:25:02,171 - __main__ - INFO -   GET  /api/status            - System status
+2025-06-10 11:25:02,171 - __main__ - INFO -   POST /api/verify-signature  - Signature verification (requires API key)
+2025-06-10 11:25:02,171 - __main__ - INFO -   POST /api/chat              - Signature analysis chat
+2025-06-10 11:25:02,171 - __main__ - INFO -   POST /api/detect-language   - Language detection
+2025-06-10 11:25:02,177 - __main__ - INFO - Starting in development mode
+2025-06-10 11:25:02,206 - werkzeug - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://192.168.1.8:5000
+2025-06-10 11:25:02,206 - werkzeug - INFO - [33mPress CTRL+C to quit[0m
+2025-06-10 11:25:02,208 - werkzeug - INFO -  * Restarting with stat
+2025-06-10 11:25:08,194 - __main__ - INFO - Using device: cpu
+2025-06-10 11:25:08,208 - __main__ - INFO - Loading Siamese model from siamese_model_script.pt...
+2025-06-10 11:25:08,464 - __main__ - INFO - Siamese model loaded successfully
+2025-06-10 11:25:10,543 - __main__ - INFO -   GET  /api/health            - Health check
+2025-06-10 11:25:10,543 - __main__ - INFO -   GET  /api/status            - System status
+2025-06-10 11:25:10,543 - __main__ - INFO -   POST /api/verify-signature  - Signature verification (requires API key)
+2025-06-10 11:25:10,543 - __main__ - INFO -   POST /api/chat              - Signature analysis chat
+2025-06-10 11:25:10,544 - __main__ - INFO -   POST /api/detect-language   - Language detection
+2025-06-10 11:25:10,548 - __main__ - INFO - Starting in development mode
+2025-06-10 11:25:10,571 - werkzeug - WARNING -  * Debugger is active!
+2025-06-10 11:25:10,578 - werkzeug - INFO -  * Debugger PIN: 308-163-258
+2025-06-10 11:28:36,550 - werkzeug - INFO -  * Detected change in 'D:\\inksentinel_final\\InkSentinal\\API_model\\API.py', reloading
+2025-06-10 11:28:37,163 - werkzeug - INFO -  * Restarting with stat
+2025-06-10 11:30:48,647 - __main__ - INFO - Using device: cpu
+2025-06-10 11:30:48,650 - __main__ - INFO - 🚀 Initializing Unified Signature Verification API...
+2025-06-10 11:30:48,650 - __main__ - INFO - Loading Siamese model from siamese_model_script.pt...
+2025-06-10 11:30:48,834 - __main__ - INFO - Siamese model loaded successfully
+2025-06-10 11:30:48,834 - __main__ - INFO - ✅ Siamese model loaded successfully
+2025-06-10 11:30:50,901 - __main__ - INFO - ✅ Ollama service is available
+2025-06-10 11:30:50,902 - __main__ - INFO - 📊 Available endpoints:
+2025-06-10 11:30:50,903 - __main__ - INFO -   GET  /api/health            - Health check
+2025-06-10 11:30:50,903 - __main__ - INFO -   GET  /api/status            - System status
+2025-06-10 11:30:50,904 - __main__ - INFO -   POST /api/verify-signature  - Signature verification (requires API key)
+2025-06-10 11:30:50,904 - __main__ - INFO -   POST /api/chat              - Signature analysis chat
+2025-06-10 11:30:50,905 - __main__ - INFO -   POST /api/detect-language   - Language detection
+2025-06-10 11:30:50,905 - __main__ - INFO - 🌐 Supported Languages: English, Arabic
+2025-06-10 11:30:50,906 - __main__ - INFO - 🔍 API ready at: http://localhost:5000 
+2025-06-10 11:30:50,906 - __main__ - INFO - Starting in development mode
+2025-06-10 11:30:50,942 - werkzeug - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://192.168.1.8:5000
+2025-06-10 11:30:50,942 - werkzeug - INFO - [33mPress CTRL+C to quit[0m
+2025-06-10 11:30:50,945 - werkzeug - INFO -  * Restarting with stat
+2025-06-10 11:30:56,988 - __main__ - INFO - Using device: cpu
+2025-06-10 11:30:56,991 - __main__ - INFO - 🚀 Initializing Unified Signature Verification API...
+2025-06-10 11:30:56,991 - __main__ - INFO - Loading Siamese model from siamese_model_script.pt...
+2025-06-10 11:30:57,214 - __main__ - INFO - Siamese model loaded successfully
+2025-06-10 11:30:57,215 - __main__ - INFO - ✅ Siamese model loaded successfully
+2025-06-10 11:30:59,267 - __main__ - INFO - ✅ Ollama service is available
+2025-06-10 11:30:59,268 - __main__ - INFO - 📊 Available endpoints:
+2025-06-10 11:30:59,269 - __main__ - INFO -   GET  /api/health            - Health check
+2025-06-10 11:30:59,269 - __main__ - INFO -   GET  /api/status            - System status
+2025-06-10 11:30:59,269 - __main__ - INFO -   POST /api/verify-signature  - Signature verification (requires API key)
+2025-06-10 11:30:59,270 - __main__ - INFO -   POST /api/chat              - Signature analysis chat
+2025-06-10 11:30:59,270 - __main__ - INFO -   POST /api/detect-language   - Language detection
+2025-06-10 11:30:59,271 - __main__ - INFO - 🌐 Supported Languages: English, Arabic
+2025-06-10 11:30:59,271 - __main__ - INFO - 🔍 API ready at: http://localhost:5000 
+2025-06-10 11:30:59,272 - __main__ - INFO - Starting in development mode
+2025-06-10 11:30:59,304 - werkzeug - WARNING -  * Debugger is active!
+2025-06-10 11:30:59,311 - werkzeug - INFO -  * Debugger PIN: 308-163-258
+2025-06-10 11:31:00,456 - __main__ - INFO - Request: POST /api/chat from 127.0.0.1
+2025-06-10 11:31:26,403 - __main__ - INFO - [a3dea74f] Chat response generated successfully in English
+2025-06-10 11:31:26,405 - werkzeug - INFO - 127.0.0.1 - - [10/Jun/2025 11:31:26] "POST /api/chat HTTP/1.1" 200 -
+2025-06-10 11:32:16,969 - __main__ - INFO - Request: POST /api/chat from 127.0.0.1
+2025-06-10 11:32:45,020 - __main__ - INFO - [8cdffd05] Chat response generated successfully in English
+2025-06-10 11:32:45,023 - werkzeug - INFO - 127.0.0.1 - - [10/Jun/2025 11:32:45] "POST /api/chat HTTP/1.1" 200 -
+2025-06-10 11:52:34,191 - __main__ - INFO - Using device: cpu
+2025-06-10 11:52:34,194 - __main__ - INFO - 🚀 Initializing Ink Sentinel - Unified Signature Verification API...
+2025-06-10 11:52:34,195 - __main__ - INFO - Loading Siamese model from siamese_model_script.pt...
+2025-06-10 11:52:34,375 - __main__ - INFO - Siamese model loaded successfully
+2025-06-10 11:52:34,375 - __main__ - INFO - ✅ Siamese model loaded successfully
+2025-06-10 11:52:36,451 - __main__ - INFO - ✅ Ollama service is available
+2025-06-10 11:52:36,451 - __main__ - INFO - 📊 Available endpoints:
+2025-06-10 11:52:36,453 - __main__ - INFO -   GET  /api/health            - Health check
+2025-06-10 11:52:36,454 - __main__ - INFO -   GET  /api/status            - System status
+2025-06-10 11:52:36,455 - __main__ - INFO -   GET  /api/supported-languages  - Get supported languages
+2025-06-10 11:52:36,456 - __main__ - INFO -   GET  /api/greeting         - Bilingual greeting messages
+2025-06-10 11:52:36,457 - __main__ - INFO -   POST /api/verify-signature  - Signature verification (requires API key)
+2025-06-10 11:52:36,458 - __main__ - INFO -   POST /api/chat             - Signature analysis chat
+2025-06-10 11:52:36,458 - __main__ - INFO -   POST /api/detect-language  - Language detection
+2025-06-10 11:52:36,460 - __main__ - INFO -   POST /api/test-response    - Test response quality
+2025-06-10 11:52:36,460 - __main__ - INFO - 🌐 Supported Languages: English, Arabic
+2025-06-10 11:52:36,461 - __main__ - INFO - 🤖 Assistant: Ink Sentinel - Your intelligent signature verification assistant
+2025-06-10 11:52:36,462 - __main__ - INFO - 🔍 API ready at: http://localhost:5000 
+2025-06-10 11:52:36,463 - __main__ - INFO - 
+💬 Try these sample messages:
+2025-06-10 11:52:36,464 - __main__ - INFO -    English: 'Hello Ink Sentinel, can you help me verify a signature?'
+2025-06-10 11:52:36,465 - __main__ - INFO -    Arabic: 'مرحباً، هل يمكنك مساعدتي في التحقق من توقيع؟'
+2025-06-10 11:52:36,466 - __main__ - INFO - Starting in development mode
+2025-06-10 11:52:36,500 - werkzeug - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://192.168.1.8:5000
+2025-06-10 11:52:36,500 - werkzeug - INFO - [33mPress CTRL+C to quit[0m
+2025-06-10 11:52:36,503 - werkzeug - INFO -  * Restarting with stat
+2025-06-10 11:52:42,331 - __main__ - INFO - Using device: cpu
+2025-06-10 11:52:42,334 - __main__ - INFO - 🚀 Initializing Ink Sentinel - Unified Signature Verification API...
+2025-06-10 11:52:42,334 - __main__ - INFO - Loading Siamese model from siamese_model_script.pt...
+2025-06-10 11:52:42,517 - __main__ - INFO - Siamese model loaded successfully
+2025-06-10 11:52:42,517 - __main__ - INFO - ✅ Siamese model loaded successfully
+2025-06-10 11:52:44,585 - __main__ - INFO - ✅ Ollama service is available
+2025-06-10 11:52:44,585 - __main__ - INFO - 📊 Available endpoints:
+2025-06-10 11:52:44,585 - __main__ - INFO -   GET  /api/health            - Health check
+2025-06-10 11:52:44,585 - __main__ - INFO -   GET  /api/status            - System status
+2025-06-10 11:52:44,586 - __main__ - INFO -   GET  /api/supported-languages  - Get supported languages
+2025-06-10 11:52:44,586 - __main__ - INFO -   GET  /api/greeting         - Bilingual greeting messages
+2025-06-10 11:52:44,586 - __main__ - INFO -   POST /api/verify-signature  - Signature verification (requires API key)
+2025-06-10 11:52:44,586 - __main__ - INFO -   POST /api/chat             - Signature analysis chat
+2025-06-10 11:52:44,587 - __main__ - INFO -   POST /api/detect-language  - Language detection
+2025-06-10 11:52:44,587 - __main__ - INFO -   POST /api/test-response    - Test response quality
+2025-06-10 11:52:44,587 - __main__ - INFO - 🌐 Supported Languages: English, Arabic
+2025-06-10 11:52:44,587 - __main__ - INFO - 🤖 Assistant: Ink Sentinel - Your intelligent signature verification assistant
+2025-06-10 11:52:44,588 - __main__ - INFO - 🔍 API ready at: http://localhost:5000 
+2025-06-10 11:52:44,588 - __main__ - INFO - 
+💬 Try these sample messages:
+2025-06-10 11:52:44,588 - __main__ - INFO -    English: 'Hello Ink Sentinel, can you help me verify a signature?'
+2025-06-10 11:52:44,588 - __main__ - INFO -    Arabic: 'مرحباً، هل يمكنك مساعدتي في التحقق من توقيع؟'
+2025-06-10 11:52:44,589 - __main__ - INFO - Starting in development mode
+2025-06-10 11:52:44,609 - werkzeug - WARNING -  * Debugger is active!
+2025-06-10 11:52:44,615 - werkzeug - INFO -  * Debugger PIN: 308-163-258
+2025-06-10 11:52:44,627 - __main__ - INFO - Request: POST /api/chat from 127.0.0.1
+2025-06-10 11:53:31,473 - __main__ - INFO - [389362cd] Chat response generated successfully in English
+2025-06-10 11:53:31,474 - werkzeug - INFO - 127.0.0.1 - - [10/Jun/2025 11:53:31] "POST /api/chat HTTP/1.1" 200 -
+2025-06-10 11:54:22,209 - werkzeug - INFO -  * Detected change in 'D:\\inksentinel_final\\InkSentinal\\API_model\\API.py', reloading
+2025-06-10 11:54:23,076 - werkzeug - INFO -  * Restarting with stat
+2025-06-10 11:54:28,894 - __main__ - INFO - Using device: cpu
+2025-06-10 11:54:28,897 - __main__ - INFO - 🚀 Initializing Ink Sentinel - Unified Signature Verification API...
+2025-06-10 11:54:28,897 - __main__ - INFO - Loading Siamese model from siamese_model_script.pt...
+2025-06-10 11:54:29,096 - __main__ - INFO - Siamese model loaded successfully
+2025-06-10 11:54:29,096 - __main__ - INFO - ✅ Siamese model loaded successfully
+2025-06-10 11:54:31,159 - __main__ - INFO - ✅ Ollama service is available
+2025-06-10 11:54:31,159 - __main__ - INFO - 📊 Available endpoints:
+2025-06-10 11:54:31,159 - __main__ - INFO -   GET  /api/health            - Health check
+2025-06-10 11:54:31,160 - __main__ - INFO -   GET  /api/status            - System status
+2025-06-10 11:54:31,160 - __main__ - INFO -   GET  /api/supported-languages  - Get supported languages
+2025-06-10 11:54:31,160 - __main__ - INFO -   GET  /api/greeting         - Bilingual greeting messages
+2025-06-10 11:54:31,161 - __main__ - INFO -   POST /api/verify-signature  - Signature verification (requires API key)
+2025-06-10 11:54:31,161 - __main__ - INFO -   POST /api/chat             - Signature analysis chat
+2025-06-10 11:54:31,161 - __main__ - INFO -   POST /api/detect-language  - Language detection
+2025-06-10 11:54:31,161 - __main__ - INFO -   POST /api/test-response    - Test response quality
+2025-06-10 11:54:31,162 - __main__ - INFO - 🌐 Supported Languages: English, Arabic
+2025-06-10 11:54:31,162 - __main__ - INFO - 🤖 Assistant: Ink Sentinel - Your intelligent signature verification assistant
+2025-06-10 11:54:31,162 - __main__ - INFO - 🔍 API ready at: http://localhost:5000 
+2025-06-10 11:54:31,163 - __main__ - INFO - 
+💬 Try these sample messages:
+2025-06-10 11:54:31,163 - __main__ - INFO -    English: 'Hello Ink Sentinel, can you help me verify a signature?'
+2025-06-10 11:54:31,163 - __main__ - INFO -    Arabic: 'مرحباً، هل يمكنك مساعدتي في التحقق من توقيع؟'
+2025-06-10 11:54:31,163 - __main__ - INFO - Starting in development mode
+2025-06-10 11:54:31,183 - werkzeug - WARNING -  * Debugger is active!
+2025-06-10 11:54:31,189 - werkzeug - INFO -  * Debugger PIN: 308-163-258
+2025-06-10 11:54:31,202 - __main__ - INFO - Request: POST /api/chat from 127.0.0.1
+2025-06-10 11:55:42,032 - __main__ - INFO - [495a405a] Chat response generated successfully in English
+2025-06-10 11:55:42,033 - werkzeug - INFO - 127.0.0.1 - - [10/Jun/2025 11:55:42] "POST /api/chat HTTP/1.1" 200 -
+2025-06-10 11:56:25,788 - __main__ - INFO - Request: POST /api/chat from 127.0.0.1
+2025-06-10 11:58:21,751 - __main__ - INFO - [bcfe6d8e] Chat response generated successfully in Arabic
+2025-06-10 11:58:21,752 - werkzeug - INFO - 127.0.0.1 - - [10/Jun/2025 11:58:21] "POST /api/chat HTTP/1.1" 200 -
+2025-06-10 12:25:03,839 - __main__ - INFO - Using device: cpu
+2025-06-10 12:25:03,842 - __main__ - INFO - 🚀 Initializing Ink Sentinel - Unified Signature Verification API...
+2025-06-10 12:25:03,842 - __main__ - INFO - Loading Siamese model from siamese_model_script.pt...
+2025-06-10 12:25:04,013 - __main__ - INFO - Siamese model loaded successfully
+2025-06-10 12:25:04,014 - __main__ - INFO - ✅ Siamese model loaded successfully
+2025-06-10 12:25:06,098 - __main__ - INFO - ✅ Ollama service is available
+2025-06-10 12:25:06,098 - __main__ - INFO - 📊 Available endpoints:
+2025-06-10 12:25:06,099 - __main__ - INFO -   GET  /api/health            - Health check
+2025-06-10 12:25:06,100 - __main__ - INFO -   GET  /api/status            - System status
+2025-06-10 12:25:06,100 - __main__ - INFO -   GET  /api/supported-languages  - Get supported languages
+2025-06-10 12:25:06,101 - __main__ - INFO -   GET  /api/greeting         - Bilingual greeting messages
+2025-06-10 12:25:06,102 - __main__ - INFO -   POST /api/verify-signature  - Signature verification (requires API key)
+2025-06-10 12:25:06,102 - __main__ - INFO -   POST /api/chat             - Signature analysis chat
+2025-06-10 12:25:06,103 - __main__ - INFO -   POST /api/detect-language  - Language detection
+2025-06-10 12:25:06,104 - __main__ - INFO -   POST /api/test-response    - Test response quality
+2025-06-10 12:25:06,104 - __main__ - INFO - 🌐 Supported Languages: English, Arabic
+2025-06-10 12:25:06,105 - __main__ - INFO - 🤖 Assistant: Ink Sentinel - Your intelligent signature verification assistant
+2025-06-10 12:25:06,106 - __main__ - INFO - 🔍 API ready at: http://localhost:5000 
+2025-06-10 12:25:06,107 - __main__ - INFO - 
+💬 Try these sample messages:
+2025-06-10 12:25:06,107 - __main__ - INFO -    English: 'Hello Ink Sentinel, can you help me verify a signature?'
+2025-06-10 12:25:06,108 - __main__ - INFO -    Arabic: 'مرحباً، هل يمكنك مساعدتي في التحقق من توقيع؟'
+2025-06-10 12:25:06,109 - __main__ - INFO - Starting in development mode
+2025-06-10 12:25:06,147 - werkzeug - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://192.168.1.8:5000
+2025-06-10 12:25:06,148 - werkzeug - INFO - [33mPress CTRL+C to quit[0m
+2025-06-10 12:25:06,150 - werkzeug - INFO -  * Restarting with stat
+2025-06-10 12:25:11,626 - __main__ - INFO - Using device: cpu
+2025-06-10 12:25:11,629 - __main__ - INFO - 🚀 Initializing Ink Sentinel - Unified Signature Verification API...
+2025-06-10 12:25:11,629 - __main__ - INFO - Loading Siamese model from siamese_model_script.pt...
+2025-06-10 12:25:11,809 - __main__ - INFO - Siamese model loaded successfully
+2025-06-10 12:25:11,810 - __main__ - INFO - ✅ Siamese model loaded successfully
+2025-06-10 12:25:13,876 - __main__ - INFO - ✅ Ollama service is available
+2025-06-10 12:25:13,876 - __main__ - INFO - 📊 Available endpoints:
+2025-06-10 12:25:13,876 - __main__ - INFO -   GET  /api/health            - Health check
+2025-06-10 12:25:13,876 - __main__ - INFO -   GET  /api/status            - System status
+2025-06-10 12:25:13,877 - __main__ - INFO -   GET  /api/supported-languages  - Get supported languages
+2025-06-10 12:25:13,877 - __main__ - INFO -   GET  /api/greeting         - Bilingual greeting messages
+2025-06-10 12:25:13,877 - __main__ - INFO -   POST /api/verify-signature  - Signature verification (requires API key)
+2025-06-10 12:25:13,877 - __main__ - INFO -   POST /api/chat             - Signature analysis chat
+2025-06-10 12:25:13,878 - __main__ - INFO -   POST /api/detect-language  - Language detection
+2025-06-10 12:25:13,878 - __main__ - INFO -   POST /api/test-response    - Test response quality
+2025-06-10 12:25:13,878 - __main__ - INFO - 🌐 Supported Languages: English, Arabic
+2025-06-10 12:25:13,878 - __main__ - INFO - 🤖 Assistant: Ink Sentinel - Your intelligent signature verification assistant
+2025-06-10 12:25:13,879 - __main__ - INFO - 🔍 API ready at: http://localhost:5000 
+2025-06-10 12:25:13,879 - __main__ - INFO - 
+💬 Try these sample messages:
+2025-06-10 12:25:13,879 - __main__ - INFO -    English: 'Hello Ink Sentinel, can you help me verify a signature?'
+2025-06-10 12:25:13,879 - __main__ - INFO -    Arabic: 'مرحباً، هل يمكنك مساعدتي في التحقق من توقيع؟'
+2025-06-10 12:25:13,880 - __main__ - INFO - Starting in development mode
+2025-06-10 12:25:13,894 - werkzeug - WARNING -  * Debugger is active!
+2025-06-10 12:25:13,900 - werkzeug - INFO -  * Debugger PIN: 308-163-258
+2025-06-10 12:29:36,370 - __main__ - INFO - Request: POST /api/chat from 127.0.0.1
+2025-06-10 12:30:45,969 - __main__ - INFO - [fb62b7dc] Chat response generated successfully in English
+2025-06-10 12:30:45,971 - werkzeug - INFO - 127.0.0.1 - - [10/Jun/2025 12:30:45] "POST /api/chat HTTP/1.1" 200 -
+2025-06-10 12:32:55,816 - __main__ - INFO - Request: POST /api/chat from 192.168.1.3
+2025-06-10 12:33:25,142 - __main__ - INFO - [362f1d08] Chat response generated successfully in English
+2025-06-10 12:33:25,143 - werkzeug - INFO - 192.168.1.3 - - [10/Jun/2025 12:33:25] "POST /api/chat HTTP/1.1" 200 -
+2025-06-10 12:34:21,024 - __main__ - INFO - Request: POST /api/chat from 192.168.1.3
+2025-06-10 12:36:11,605 - __main__ - INFO - [e2703bd6] Chat response generated successfully in Arabic
+2025-06-10 12:36:11,606 - werkzeug - INFO - 192.168.1.3 - - [10/Jun/2025 12:36:11] "POST /api/chat HTTP/1.1" 200 -
+2025-06-10 12:44:09,199 - __main__ - INFO - Request: POST /api/verify-signature from 192.168.1.3
+2025-06-10 12:44:09,201 - __main__ - INFO - [74af0e1a] Signature verification request from 192.168.1.3
+2025-06-10 12:44:09,612 - __main__ - INFO - [74af0e1a] Verification successful: fake
+2025-06-10 12:44:09,614 - werkzeug - INFO - 192.168.1.3 - - [10/Jun/2025 12:44:09] "POST /api/verify-signature HTTP/1.1" 200 -
+2025-06-10 12:46:42,778 - __main__ - INFO - Request: POST /api/chat from 192.168.1.3
+2025-06-10 12:47:41,569 - __main__ - INFO - [bce62148] Chat response generated successfully in English
+2025-06-10 12:47:41,570 - werkzeug - INFO - 192.168.1.3 - - [10/Jun/2025 12:47:41] "POST /api/chat HTTP/1.1" 200 -
+2025-06-10 12:48:01,942 - __main__ - INFO - Request: POST /api/chat from 192.168.1.3
+2025-06-10 12:48:09,817 - __main__ - INFO - [8ee31825] Chat response generated successfully in English
+2025-06-10 12:48:09,818 - werkzeug - INFO - 192.168.1.3 - - [10/Jun/2025 12:48:09] "POST /api/chat HTTP/1.1" 200 -
+2025-06-10 12:49:01,682 - __main__ - INFO - Request: POST /api/chat from 192.168.1.3
+2025-06-10 12:49:28,864 - __main__ - INFO - [8cb78d94] Chat response generated successfully in English
+2025-06-10 12:49:28,865 - werkzeug - INFO - 192.168.1.3 - - [10/Jun/2025 12:49:28] "POST /api/chat HTTP/1.1" 200 -
+2025-06-10 12:49:48,729 - __main__ - INFO - Request: POST /api/chat from 192.168.1.3
+2025-06-10 12:50:02,420 - __main__ - INFO - [137618d2] Chat response generated successfully in English
+2025-06-10 12:50:02,420 - werkzeug - INFO - 192.168.1.3 - - [10/Jun/2025 12:50:02] "POST /api/chat HTTP/1.1" 200 -
+2025-06-10 12:51:02,090 - __main__ - INFO - Request: POST /api/chat from 192.168.1.3
+2025-06-10 12:51:26,637 - __main__ - INFO - [c45fb768] Chat response generated successfully in English
+2025-06-10 12:51:26,637 - werkzeug - INFO - 192.168.1.3 - - [10/Jun/2025 12:51:26] "POST /api/chat HTTP/1.1" 200 -
+2025-06-10 12:51:59,030 - __main__ - INFO - Request: POST /api/chat from 192.168.1.3
+2025-06-10 12:52:42,407 - __main__ - INFO - [1dc67baf] Chat response generated successfully in Arabic
+2025-06-10 12:52:42,408 - werkzeug - INFO - 192.168.1.3 - - [10/Jun/2025 12:52:42] "POST /api/chat HTTP/1.1" 200 -
