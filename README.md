@@ -104,5 +104,5 @@ print(response['message']['content'])
 
 
 **Supervised by**  
-Dr. Khaled Wasser & Eng. Rofida Abdelhafez  
+Dr. Khaled Wassef & Eng. Rofida Abdelhafez  
 Egyptian E-Learning University (EELU)
