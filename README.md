@@ -98,7 +98,7 @@ print(response['message']['content'])
 
 ## Contributors
 - Mostafa Kamal (Team Lead & AI Leader)
-- Mostafa Mohamed (Acting Team Lead &Security Architecture & Mobile Development Leader)
+- Mostafa Mohamed (Acting Team Lead & Security Architecture & Mobile Development Leader)
 - Amr Ashraf, Shahd Mahmoud, Maria Kamal (Mobile Development)
 - Amira Mohamed, Alaa Ayman (AI Development)
 
