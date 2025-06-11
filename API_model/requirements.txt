@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Core Flask Framework
 Flask==2.3.3
 Flask-CORS==4.0.0
@@ -34,3 +35,16 @@ pathlib2>=2.3.7; python_version<"3.4"
 # pytest-flask>=1.2.0
 # black>=23.0.0
 # flake8>=6.0.0
+=======
+flask==2.3.2
+flask-cors==4.0.0
+flask-limiter==3.5.0
+werkzeug==2.3.6
+torch==2.0.1
+torchvision==0.15.2
+pillow==9.5.0
+requests==2.31.0
+langchain-community==0.0.20
+pyjwt==2.8.0
+numpy==1.24.3
+>>>>>>> 16cf094 (docu upload)

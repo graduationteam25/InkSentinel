@@ -480,3 +480,57 @@
 2025-06-10 20:49:44,438 - __main__ - INFO - Request: POST /api/chat from 192.168.1.3
 2025-06-10 20:51:05,975 - __main__ - INFO - [3ed7f162] Chat response generated successfully in English
 2025-06-10 20:51:05,977 - werkzeug - INFO - 192.168.1.3 - - [10/Jun/2025 20:51:05] "POST /api/chat HTTP/1.1" 200 -
+2025-06-11 01:36:09,808 - __main__ - INFO - Using device: cpu
+2025-06-11 01:36:09,811 - __main__ - INFO - 🚀 Initializing Ink Sentinel - Unified Signature Verification API...
+2025-06-11 01:36:09,811 - __main__ - INFO - Loading Siamese model from siamese_model_script.pt...
+2025-06-11 01:36:10,038 - __main__ - INFO - Siamese model loaded successfully
+2025-06-11 01:36:10,039 - __main__ - INFO - ✅ Siamese model loaded successfully
+2025-06-11 01:36:12,113 - __main__ - INFO - ✅ Ollama service is available
+2025-06-11 01:36:12,113 - __main__ - INFO - 📊 Available endpoints:
+2025-06-11 01:36:12,114 - __main__ - INFO -   GET  /api/health            - Health check
+2025-06-11 01:36:12,115 - __main__ - INFO -   GET  /api/status            - System status
+2025-06-11 01:36:12,115 - __main__ - INFO -   GET  /api/supported-languages  - Get supported languages
+2025-06-11 01:36:12,116 - __main__ - INFO -   GET  /api/greeting         - Bilingual greeting messages
+2025-06-11 01:36:12,116 - __main__ - INFO -   POST /api/verify-signature  - Signature verification (requires API key)
+2025-06-11 01:36:12,117 - __main__ - INFO -   POST /api/chat             - Signature analysis chat
+2025-06-11 01:36:12,117 - __main__ - INFO -   POST /api/detect-language  - Language detection
+2025-06-11 01:36:12,117 - __main__ - INFO -   POST /api/test-response    - Test response quality
+2025-06-11 01:36:12,117 - __main__ - INFO - 🌐 Supported Languages: English, Arabic
+2025-06-11 01:36:12,117 - __main__ - INFO - 🤖 Assistant: Ink Sentinel - Your intelligent signature verification assistant
+2025-06-11 01:36:12,118 - __main__ - INFO - 🔍 API ready at: http://localhost:5000 
+2025-06-11 01:36:12,118 - __main__ - INFO - 
+💬 Try these sample messages:
+2025-06-11 01:36:12,118 - __main__ - INFO -    English: 'Hello Ink Sentinel, can you help me verify a signature?'
+2025-06-11 01:36:12,118 - __main__ - INFO -    Arabic: 'مرحباً، هل يمكنك مساعدتي في التحقق من توقيع؟'
+2025-06-11 01:36:12,119 - __main__ - INFO - Starting in development mode
+2025-06-11 01:36:12,166 - werkzeug - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://192.168.1.8:5000
+2025-06-11 01:36:12,167 - werkzeug - INFO - [33mPress CTRL+C to quit[0m
+2025-06-11 01:36:12,170 - werkzeug - INFO -  * Restarting with stat
+2025-06-11 01:36:18,456 - __main__ - INFO - Using device: cpu
+2025-06-11 01:36:18,459 - __main__ - INFO - 🚀 Initializing Ink Sentinel - Unified Signature Verification API...
+2025-06-11 01:36:18,459 - __main__ - INFO - Loading Siamese model from siamese_model_script.pt...
+2025-06-11 01:36:18,659 - __main__ - INFO - Siamese model loaded successfully
+2025-06-11 01:36:18,659 - __main__ - INFO - ✅ Siamese model loaded successfully
+2025-06-11 01:36:20,713 - __main__ - INFO - ✅ Ollama service is available
+2025-06-11 01:36:20,713 - __main__ - INFO - 📊 Available endpoints:
+2025-06-11 01:36:20,714 - __main__ - INFO -   GET  /api/health            - Health check
+2025-06-11 01:36:20,715 - __main__ - INFO -   GET  /api/status            - System status
+2025-06-11 01:36:20,715 - __main__ - INFO -   GET  /api/supported-languages  - Get supported languages
+2025-06-11 01:36:20,716 - __main__ - INFO -   GET  /api/greeting         - Bilingual greeting messages
+2025-06-11 01:36:20,717 - __main__ - INFO -   POST /api/verify-signature  - Signature verification (requires API key)
+2025-06-11 01:36:20,718 - __main__ - INFO -   POST /api/chat             - Signature analysis chat
+2025-06-11 01:36:20,719 - __main__ - INFO -   POST /api/detect-language  - Language detection
+2025-06-11 01:36:20,719 - __main__ - INFO -   POST /api/test-response    - Test response quality
+2025-06-11 01:36:20,720 - __main__ - INFO - 🌐 Supported Languages: English, Arabic
+2025-06-11 01:36:20,721 - __main__ - INFO - 🤖 Assistant: Ink Sentinel - Your intelligent signature verification assistant
+2025-06-11 01:36:20,722 - __main__ - INFO - 🔍 API ready at: http://localhost:5000 
+2025-06-11 01:36:20,722 - __main__ - INFO - 
+💬 Try these sample messages:
+2025-06-11 01:36:20,723 - __main__ - INFO -    English: 'Hello Ink Sentinel, can you help me verify a signature?'
+2025-06-11 01:36:20,723 - __main__ - INFO -    Arabic: 'مرحباً، هل يمكنك مساعدتي في التحقق من توقيع؟'
+2025-06-11 01:36:20,724 - __main__ - INFO - Starting in development mode
+2025-06-11 01:36:20,747 - werkzeug - WARNING -  * Debugger is active!
+2025-06-11 01:36:20,752 - werkzeug - INFO -  * Debugger PIN: 308-163-258
